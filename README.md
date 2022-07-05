@@ -1,0 +1,2 @@
+# forPointForCountry
+一个用来作为集散农产品信息的小程序
